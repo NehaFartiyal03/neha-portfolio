@@ -37,7 +37,7 @@ export function Hero() {
       <div className="dot-grid pointer-events-none absolute inset-0 opacity-60" />
 
       {/* ---------- Photo + text (text sits on the left of the photo) ---------- */}
-      <div className="relative flex flex-col xl:block">
+      <div className="relative flex flex-col lg:block">
         <img
           src={banner} alt="Neha Fartiyal, web developer"
           className="order-2 block h-auto w-full"
