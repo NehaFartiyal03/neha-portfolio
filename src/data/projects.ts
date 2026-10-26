@@ -13,7 +13,7 @@ const hrm: Project = {
   roles: ['HR Administrator', 'Department Manager', 'Employee'],
   featured: true,
   year: '2025 - 2026',
-  liveUrl: 'https://hrm.enigoal.co.in/',,
+  liveUrl: 'https://hrm.enigoal.co.in/',
   githubUrl: null,
   isHrmSpecial: true,
 };
